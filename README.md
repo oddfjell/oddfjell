@@ -18,9 +18,8 @@
 ⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
 </p>
 
-🌱 I’m currently a student at NTNU Trondheim
-<br><br>
-📫 How to reach me: <br><br>
+### 🌱 I’m currently a student at NTNU Trondheim
+### 📫 How to reach me:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/551472606885183491)
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.stud.idi.ntnu.no/amrevill)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ann-marie-revillard-7a368725b/)	:trollface:
