@@ -19,10 +19,12 @@
 </p>
 
 ### 🌱 I’m currently a student at [NTNU Trondheim](https://www.ntnu.no/studier/bidata/systemutvikling) 
+### 🥋 I like to throw people and swim 🏊‍♀️
 ### 📫 How to reach me:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/551472606885183491)
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.stud.idi.ntnu.no/amrevill)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ann-marie-revillard-7a368725b/)	:trollface:
+
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)    kommenter ut &langs_count=8
 
