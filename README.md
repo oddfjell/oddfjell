@@ -18,7 +18,7 @@
 ⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
 </p>
 
-### 🌱 I’m currently a student at NTNU Trondheim
+### 🌱 I’m currently a student at [NTNU Trondheim](https://www.ntnu.no/studier/bidata/systemutvikling) 
 ### 📫 How to reach me:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/551472606885183491)
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.stud.idi.ntnu.no/amrevill)
