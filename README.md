@@ -18,14 +18,15 @@
 ⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
 </p>
 
-### 🌱 I’m currently a student at [NTNU Trondheim](https://www.ntnu.no/studier/bidata/systemutvikling) 
-### 🥋 I like to throw people and swim 🏊‍♀️
+### [🌱](https://www.ntnu.no/studier/bidata/systemutvikling) I’m currently a student at NTNU Trondheim
+### [🥋](https://ntnui.no/judo/)  I like to throw people and swim [🏊‍♀️](https://ntnui.no/svomming/)
 ### 📫 How to reach me:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/551472606885183491)
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.stud.idi.ntnu.no/amrevill)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ann-marie-revillard-7a368725b/)	:trollface:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ann-marie-revillard-7a368725b/)	
+[:trollface:](https://www.youtube.com/watch?v=j5a0jTc9S10) 
 
-<!--
+<!--:trollface:
 <img src="https://media.giphy.com/media/8wUuqFLvMEbj97mwlC/giphy.gif" width="400"/>
 
 
