@@ -26,9 +26,17 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ann-marie-revillard-7a368725b/)	:trollface:
 
 
+<img src="https://media.giphy.com/media/8wUuqFLvMEbj97mwlC/giphy.gif" width="500"/>
+
+
+
+
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)    kommenter ut &langs_count=8
-
-
+<div id="header" align="center">
+  
+</div>
+https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif
 **oddfjell/oddfjell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
