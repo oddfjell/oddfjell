@@ -26,14 +26,14 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ann-marie-revillard-7a368725b/)	
 [:trollface:](https://www.youtube.com/watch?v=j5a0jTc9S10) 
 
-<div id="header">
+<!--<div id="header">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlmbGgyMTJyMG9lbTI4eWI1bGxuOTcxZ2h1cTd3NXE2enk1cGhwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9kYuE8wrYTZps6WXnR/giphy.gif" width="120"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ252bGtoN281dmZ5YjdobGI4NmVnYnJwdjhiczBkNDR1cWZsbG83cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TPU78SFwrcJ9b2GKXM/giphy.gif" width="120"/>
 </div>
 
 
 
-<!--:trollface:
+:trollface:
 <img src="https://media.giphy.com/media/8wUuqFLvMEbj97mwlC/giphy.gif" width="400"/>
 
 <br>:fr::norway:
