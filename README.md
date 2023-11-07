@@ -26,6 +26,16 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ann-marie-revillard-7a368725b/)	
 [:trollface:](https://www.youtube.com/watch?v=j5a0jTc9S10) 
 
+### 🚀 I am currently learning 
+[![My Skills](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://unity.com/fr)
+[![My Skills](https://skillicons.dev/icons?i=unrealengine)](https://www.unrealengine.com/fr/)
+
+
+
+
+
+
 <!--<div id="header">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlmbGgyMTJyMG9lbTI4eWI1bGxuOTcxZ2h1cTd3NXE2enk1cGhwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9kYuE8wrYTZps6WXnR/giphy.gif" width="120"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ252bGtoN281dmZ5YjdobGI4NmVnYnJwdjhiczBkNDR1cWZsbG83cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TPU78SFwrcJ9b2GKXM/giphy.gif" width="120"/>
@@ -54,7 +64,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![My Skills](https://skillicons.dev/icons?i=blender,unity,unrealengine)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,docker,git,java,maven,mysql,nodejs,postman,py,spring,vue&perline=7)](https://skillicons.dev)
 
